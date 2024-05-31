@@ -1,7 +1,7 @@
 # Bagian 04: Information Security Controls/Kontrol Keamanan Informasi
 
 ## Information Assurance/Jaminan Informasi
-
+[Definisi]([../definitions/definitions_I.md#information-assurance--jaminan-informasi)
 ## Defense-in-depth/Pertahanan mendalam
 
 [Definisi]([../definitions/definitions_D.md#defense-in-depth)
