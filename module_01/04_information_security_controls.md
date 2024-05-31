@@ -4,7 +4,7 @@
 
 ## Defense-in-depth/Pertahanan mendalam
 
-[Definisi](../definitions/definitions_D.md#defense-in- depth)
+[Definisi]([../definitions/definitions_D.md#defense-in-depth)
 
 ## Risk/Mempertaruhkan
 
