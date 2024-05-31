@@ -2,7 +2,7 @@
 
 ## Tentang
 
-- :notebook: Catatan studi untuk ujian EC-Council Certified Ethical Hacker (C|EH) v12 oleh [Yoga913](https://github.com/Yoga913).
+- :notebook: Catatan studi untuk ujian EC-Council Certified Ethical Hacker (C|EH) v12 oleh [Egi](https://github.com/Egi08).
 
 - information_source: Catatan ini berisi referensi ke sumber eksternal serta laboratorium yang relevan untuk memperkuat konsep pembelajaran modul.
 
